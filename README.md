@@ -18,5 +18,7 @@ Bachelor End Project (TU/e) on a foosball table with an IR touch frame (USB HID)
 
 ## Habits
 
-- Put the issue number in commit messages, e.g. `IR raw dump results (#1)`.
+- Write a few lines in the journal each working day.
 - Every measurement gets its own folder in `experiments/`.
+- After a meeting, write notes in `notes/meetings.md`; action items you might forget become issues.
+- Issues are the to-do list, grouped by milestone (one per goal in `planning/plan.md`).
